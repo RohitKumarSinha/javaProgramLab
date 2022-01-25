@@ -1,3 +1,4 @@
+// program that find out prime numbers between two interval
 import java.util.Scanner;
 public class PrimeInterval {
 	public static void main(String[] args) {

@@ -1,3 +1,5 @@
+// program that take input from user and print that is prime or not
+
 import java.util.Scanner;
 public class Prime {
 

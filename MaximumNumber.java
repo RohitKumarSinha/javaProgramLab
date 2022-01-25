@@ -1,3 +1,5 @@
+// program to find maximum number using ternary operator
+
 import java.util.Scanner;
 public class MaximumNumber 
 {

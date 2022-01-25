@@ -1,3 +1,5 @@
+// Program to find max and min using array
+
 import java.util.Scanner;
 public class MaxAndMin
 {
